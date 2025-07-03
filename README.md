@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kabir Nagdev</h1>
-<h3 align="center">Aspiring Full-Stack Developer | Node.js Enthusiast | B.Tech CSE @ Bennett University</h3>
+<h3 align="center"> Self Learning Mobile App Devlopment | B.Tech CSE Student</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kabirnagdev&label=Profile%20views&color=0e75b6&style=flat" alt="kabirnagdev" />
@@ -8,7 +8,7 @@
 ---
 
 ### 💫 About Me:
-- 🎓 B.Tech CSE student at Bennett University  
+- 🎓 B.Tech CSE student 
 - 🔨 Currently learning **Node.js** to level up backend skills  
 - 🌐 Freelance frontend developer (HTML, CSS, JavaScript)  
 - 💡 Built projects in Java, Python, JavaScript, and now diving into **JavaScript frameworks**  
