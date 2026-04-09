@@ -2,7 +2,7 @@
 
 ### `{ building things that matter }` 
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-seven-opal-75.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kabirnagdev@outlook.com)
@@ -11,7 +11,7 @@
 
 ---
 
-## ⚡ About Me
+##  About Me
 
 ```typescript
 const kabir = {
@@ -28,62 +28,62 @@ I'm a developer who sits at the intersection of **AI**, **full-stack engineering
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 <table>
 <tr>
 <td width="50%">
 
-### 🧠 HCC Diagnosis via Deep Segmentation
+### HCC Diagnosis via Deep Segmentation
 > **Python · PyTorch · MobileNetV2 · CLAHE · NIfTI**
 
 Medical AI pipeline for hepatocellular carcinoma detection from CT scans.
 
-- 🎯 **95.3% test accuracy** on CT scan tumor segmentation
-- 🏥 End-to-end NIfTI scan ingestion & slice-wise inference
-- 🔬 HU windowing + CLAHE preprocessing for enhanced CT visibility
-- 🧬 MobileNet backbone fine-tuned for medical imaging
+- **95.3% test accuracy** on CT scan tumor segmentation
+- End-to-end NIfTI scan ingestion & slice-wise inference
+-  HU windowing + CLAHE preprocessing for enhanced CT visibility
+- MobileNet backbone fine-tuned for medical imaging
 
 </td>
 <td width="50%">
 
-### 🎨 Team Canvas
+###  Team Canvas
 > **React · TypeScript · Node.js · Socket.IO · Prisma · PostgreSQL**
 
 Real-time collaborative whiteboard for distributed teams.
 
-- ⚡ **<100ms latency** for live sync across 50+ concurrent users
-- 🔐 JWT auth + RBAC + audit logging
-- 🗄️ Prisma ORM with PostgreSQL for persistent sessions
-- 📡 WebSocket architecture with Socket.IO
+-  **<100ms latency** for live sync across 50+ concurrent users
+- JWT auth + RBAC + audit logging
+- Prisma ORM with PostgreSQL for persistent sessions
+-  WebSocket architecture with Socket.IO
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### 🥗 Calorie & Nutrition AI System
+###  Calorie & Nutrition AI System
 > **React · TypeScript · NumPy · Pandas · Matplotlib**
 
 AI-assisted dietary analysis and nutrition tracking platform.
 
-- 📊 Personalized dietary summaries powered by data analysis
-- 📈 Visual trend analysis using Matplotlib
-- 🤖 AI recommendations engine for nutritional optimization
-- 💡 Clean React + TypeScript dashboard UX
+-  Personalized dietary summaries powered by data analysis
+-  Visual trend analysis using Matplotlib
+-  AI recommendations engine for nutritional optimization
+-  Clean React + TypeScript dashboard UX
 
 </td>
 <td width="50%">
 
-### 📍 Local Social Discovery App
+###  Local Social Discovery App
 > **React · TypeScript · Next.js · Node.js · MapLibre**
 
 Real-world social discovery platform for spontaneous meetups.
 
-- 🗺️ Interactive map with MapLibre for location-based discovery
-- 👥 Connect with nearby people for impromptu plans
-- 🚀 Expo + Node.js + Next.js server architecture
-- 🔗 Social graph for local community building
+- Interactive map with MapLibre for location-based discovery
+-  Connect with nearby people for impromptu plans
+-  Expo + Node.js + Next.js server architecture
+-  Social graph for local community building
 
 </td>
 </tr>
@@ -91,7 +91,7 @@ Real-world social discovery platform for spontaneous meetups.
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 **Languages**
 
@@ -126,31 +126,15 @@ Real-world social discovery platform for spontaneous meetups.
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
+##  Achievements
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## 🏆 Achievements
-
-| 🥇 | Achievement |
+|  | Achievement |
 |---|---|
-| 🔥 | **LeetCode 100 Days Badge 2025** — 100+ days of consistent problem solving |
-| 🏛️ | **HiveMinds: Strategy Conquest S1** — National Finalist |
-| 🎓 | **Bennett University** — B.Tech CSE (2024 – Present) |
-| 💼 | **Weber Innovations** — Junior Associate (Aug 2025 – Present) |
+|  | **LeetCode 100 Days Badge 2025** — 100+ days of consistent problem solving |
+|  | **HiveMinds: Strategy Conquest S1** — National Finalist |
+|  | **Bennett University** — B.Tech CSE (2024 – Present) |
+|  | **Weber Innovations** — Junior Associate (Aug 2025 – Present) |
 
 ---
 
@@ -174,8 +158,8 @@ I'm always open to collaborating on ambitious projects, interesting research, or
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_See_My_Work-000000?style=for-the-badge)](https://yourportfolio.com)
-[![LinkedIn](https://img.shields.io/badge/💼_Let's_Connect-0A66C2?style=for-the-badge)](https://linkedin.com)
+[![Portfolio](https://img.shields.io/badge/🌐_See_My_Work-000000?style=for-the-badge)](https://portfolio-seven-opal-75.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/💼_Let's_Connect-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/kabirnagdev/)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=flat-square&label=Profile+Views)
 
