@@ -138,7 +138,7 @@ Real-world social discovery platform for spontaneous meetups.
 
 ---
 
-## 🎯 What I'm Exploring
+## What I'm Exploring
 
 ```
 ▓▓▓▓▓▓▓▓▓▓░░░░░  AI/ML & Medical Imaging    [pushing accuracy limits]
@@ -150,7 +150,7 @@ Real-world social discovery platform for spontaneous meetups.
 
 ---
 
-## 📬 Let's Connect
+##  Let's Connect
 
 I'm always open to collaborating on ambitious projects, interesting research, or just nerding out about tech.
 
@@ -159,7 +159,7 @@ I'm always open to collaborating on ambitious projects, interesting research, or
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/🌐_See_My_Work-000000?style=for-the-badge)](https://portfolio-seven-opal-75.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/💼_Let's_Connect-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/kabirnagdev/)
+[![LinkedIn](https://img.shields.io/badge/_Let's_Connect-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/kabirnagdev/)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=flat-square&label=Profile+Views)
 
