@@ -22,11 +22,6 @@ const kabir = {
   location:   "Greater Noida, UP 🇮🇳",
   fun_fact:   "I debug at 2am and call it fun."
 };
-```
-
-I'm a developer who sits at the intersection of **AI**, **full-stack engineering**, and **design** — comfortable writing PyTorch pipelines in the morning and crafting UI in Figma by evening. I build things end-to-end, ship fast, and care deeply about how things *look and feel*, not just how they work.
-
----
 
 ##  Featured Projects
 
