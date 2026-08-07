@@ -22,6 +22,11 @@ const kabir = {
   location:   "Greater Noida, UP 🇮🇳",
   fun_fact:   "I debug at 2am and call it fun."
 };
+```
+
+
+
+---
 
 ##  Featured Projects
 
@@ -122,14 +127,7 @@ Real-world social discovery platform for spontaneous meetups.
 ---
 
 
-##  Achievements
 
-|  | Achievement |
-|---|---|
-|  | **LeetCode 100 Days Badge 2025** — 100+ days of consistent problem solving |
-|  | **HiveMinds: Strategy Conquest S1** — National Finalist |
-|  | **Bennett University** — B.Tech CSE (2024 – Present) |
-|  | **Weber Innovations** — Junior Associate (Aug 2025 – Present) |
 
 ---
 
