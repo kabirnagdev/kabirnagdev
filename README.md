@@ -6,7 +6,7 @@
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kabirnagdev@outlook.com)
 
 
-CS undergrad at Bennett University, specializing in AI/ML. Building AI systems, full-stack apps, and mobile apps.
+CS undergrad , specializing in AI/ML. Building AI systems, full-stack apps, and mobile apps.
 
 </div>
 
