@@ -1,99 +1,27 @@
 <div align="center">
 
-### `{ building things that matter }` 
-
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-seven-opal-75.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kabirnagdev/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/vQ3P7qButX/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kabirnagdev@outlook.com)
 
+
+CS undergrad at Bennett University, specializing in AI/ML. Building AI systems, full-stack apps, and mobile apps.
+
 </div>
 
 ---
 
-##  About Me
+### Projects
 
-```typescript
-const kabir = {
-  role:       "CS Engineering Student @ Bennett University",
-  currently:  "Junior Associate @ Weber Innovations",
-  building:   ["AI/ML systems", "full-stack apps", "creative tools"],
-  obsessed:   ["clean architecture", "real-time systems", "pushing pixels"],
-  location:   "Greater Noida, UP 🇮🇳",
-  fun_fact:   "I debug at 2am and call it fun."
-};
-```
-
-
+- **HCC Diagnosis — Deep Learning Segmentation** · Python, PyTorch, TorchVision, MobileNetV2
+- **Team Canvas — Real-Time Collaboration Platform** · React, Node.js, Express.js, Socket.IO, Prisma, PostgreSQL
+- **Calorie & Nutrition AI System** · React, TypeScript, NumPy, Pandas, Matplotlib
+- **Local Social Discovery App** · React, TypeScript, Next.js, Node.js, MapLibre
 
 ---
 
-##  Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### HCC Diagnosis via Deep Segmentation
-> **Python · PyTorch · MobileNetV2 · CLAHE · NIfTI**
-
-Medical AI pipeline for hepatocellular carcinoma detection from CT scans.
-
-- **95.3% test accuracy** on CT scan tumor segmentation
-- End-to-end NIfTI scan ingestion & slice-wise inference
--  HU windowing + CLAHE preprocessing for enhanced CT visibility
-- MobileNet backbone fine-tuned for medical imaging
-
-</td>
-<td width="50%">
-
-###  Team Canvas
-> **React · TypeScript · Node.js · Socket.IO · Prisma · PostgreSQL**
-
-Real-time collaborative whiteboard for distributed teams.
-
--  **<100ms latency** for live sync across 50+ concurrent users
-- JWT auth + RBAC + audit logging
-- Prisma ORM with PostgreSQL for persistent sessions
--  WebSocket architecture with Socket.IO
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-###  Calorie & Nutrition AI System
-> **React · TypeScript · NumPy · Pandas · Matplotlib**
-
-AI-assisted dietary analysis and nutrition tracking platform.
-
--  Personalized dietary summaries powered by data analysis
--  Visual trend analysis using Matplotlib
--  AI recommendations engine for nutritional optimization
--  Clean React + TypeScript dashboard UX
-
-</td>
-<td width="50%">
-
-###  Local Social Discovery App
-> **React · TypeScript · Next.js · Node.js · MapLibre**
-
-Real-world social discovery platform for spontaneous meetups.
-
-- Interactive map with MapLibre for location-based discovery
--  Connect with nearby people for impromptu plans
--  Expo + Node.js + Next.js server architecture
--  Social graph for local community building
-
-</td>
-</tr>
-</table>
-
----
-
-##  Tech Stack
-
-**Languages**
+### Stack
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -104,8 +32,6 @@ Real-world social discovery platform for spontaneous meetups.
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
-**Frameworks & Libraries**
-
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
@@ -114,8 +40,6 @@ Real-world social discovery platform for spontaneous meetups.
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-
-**Tools & Design**
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
@@ -126,40 +50,8 @@ Real-world social discovery platform for spontaneous meetups.
 
 ---
 
-
-
-
----
-
-## What I'm Exploring
-
-```
-▓▓▓▓▓▓▓▓▓▓░░░░░  AI/ML & Medical Imaging    [pushing accuracy limits]
-▓▓▓▓▓▓▓▓▓░░░░░░  Real-time Systems           [WebSockets, low-latency]
-▓▓▓▓▓▓▓▓░░░░░░░  Systems Programming (Rust)  [learning the hard way]
-▓▓▓▓▓▓▓▓▓▓▓░░░░  Creative Tooling & Design   [code meets aesthetics]
-▓▓▓▓▓▓░░░░░░░░░  Mobile (Flutter/Dart)       [exploring cross-platform]
-```
-
----
-
-##  Let's Connect
-
-I'm always open to collaborating on ambitious projects, interesting research, or just nerding out about tech.
-
-> *"Ship it. Learn from it. Build it better."*
-
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_See_My_Work-000000?style=for-the-badge)](https://portfolio-seven-opal-75.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/_Let's_Connect-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/kabirnagdev/)
+*still far from where i want to be but so far from where i started*
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=flat-square&label=Profile+Views)
-
-</div>
-
----
-
-<div align="center">
-<sub>Built with curiosity, caffeine, and a lot of <code>console.log</code> statements ☕</sub>
 </div>
