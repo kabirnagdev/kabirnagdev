@@ -39,3 +39,7 @@ CS undergrad at Bennett University, specializing in AI/ML. Building AI systems, 
 *still far from where i want to be but so far from where i used to be*
 
 </div>
+
+<div>
+<img src="https://media1.tenor.com/m/11FcEDsUOfEAAAAd/limitless-limitlessmovie.gif" width="100%" style="max-width: 800px;">
+</div>
