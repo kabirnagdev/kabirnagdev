@@ -41,5 +41,5 @@ CS undergrad at Bennett University, specializing in AI/ML. Building AI systems, 
 </div>
 
 <div align="center">
-<img src="https://media.licdn.com/dms/image/v2/D5622AQE9gj4qVJqPcQ/feedshare-shrink_480/B56Zy_GjsWHUAo-/0/1772732693537?e=1792022400&v=beta&t=mw7kHdk0DrdCHdD9qwGWV72ThwlRCNb1s6A72-axKkg" width="100%";">
+<img src="https://tenor.com/view/bradley-cooper-gif-4797370" width="100%";">
 </div>
