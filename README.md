@@ -41,5 +41,5 @@ CS undergrad at Bennett University, specializing in AI/ML. Building AI systems, 
 </div>
 
 <div align="center">
-<img src="https://i.pinimg.com/1200x/bb/18/b9/bb18b9e0c29b90ea8298a72ffd376752.jpg" width="100%";">
+<img src="https://i.pinimg.com/1200x/bb/18/b9/bb18b9e0c29b90ea8298a72ffd376752.jpg" width="96%";">
 </div>
