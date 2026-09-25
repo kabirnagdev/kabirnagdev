@@ -36,6 +36,6 @@ CS undergrad at Bennett University, specializing in AI/ML. Building AI systems, 
 
 <div align="center">
 
-*still far from where i want to be but so far from where i started*
+*still far from where i want to be but so far from where i used to be*
 
 </div>
