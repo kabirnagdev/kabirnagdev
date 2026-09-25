@@ -10,17 +10,6 @@ CS undergrad at Bennett University, specializing in AI/ML. Building AI systems, 
 
 </div>
 
----
-
-### Projects
-
-- **HCC Diagnosis — Deep Learning Segmentation** · Python, PyTorch, TorchVision, MobileNetV2
-- **Team Canvas — Real-Time Collaboration Platform** · React, Node.js, Express.js, Socket.IO, Prisma, PostgreSQL
-- **Calorie & Nutrition AI System** · React, TypeScript, NumPy, Pandas, Matplotlib
-- **Local Social Discovery App** · React, TypeScript, Next.js, Node.js, MapLibre
-
----
-
 ### Stack
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
