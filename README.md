@@ -41,5 +41,5 @@ CS undergrad , specializing in AI/ML. Building AI systems, full-stack apps, and 
 </div>
 
 <div align="center">
-<img src="https://i.pinimg.com/1200x/a2/31/cc/a231cce102df367d6d0a218744797b97.jpg" width="100%";">
+<img src="https://i.pinimg.com/1200x/a2/31/cc/a231cce102df367d6d0a218744797b97.jpg" height = "90%" width="100%";">
 </div>
